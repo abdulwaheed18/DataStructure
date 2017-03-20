@@ -8,4 +8,4 @@ Will try to cover all the examples related to DataStructure
 
 
 ## 1. com.waheedtechblog.array
-  ### *ReverseArray* - Example to show the reverse of array with and without Recusrion.
+  ### *1.1 ReverseArray* - Example to show the reverse of array with and without Recusrion.
