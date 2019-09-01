@@ -131,3 +131,26 @@ public class LRUCacheImplementation {
 	}
 
 }
+
+/**
+ * 
+ * 
+ * Output:
+ * 
+ * key is:  5 and value is: 7000
+key is:  4 and value is: 6000
+key is:  3 and value is: 3000
+key is:  2 and value is: 2000
+Is Key 1 present: -1
+=============================================
+key is:  3 and value is: 30000
+key is:  12 and value is: 20000
+key is:  5 and value is: 7000
+key is:  4 and value is: 6000
+=============================================
+key is:  14 and value is: 4000
+key is:  3 and value is: 30000
+key is:  12 and value is: 20000
+key is:  5 and value is: 7000
+ * 
+ * */
