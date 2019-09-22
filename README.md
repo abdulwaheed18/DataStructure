@@ -1,4 +1,4 @@
-Data Structure -  beginner to advanced 
+Data Structure -  beginner to advance level
 ============================================
 
 Copyright (c) 2019, [WaheedTechblog](http://www.waheedtechblog.com/).
