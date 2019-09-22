@@ -1,14 +1,10 @@
-# DataStructure
-==============================================
+Data Structure -  beginner to advance level
+============================================
 
-**DataStructure** will covers  mostly all the problem statement from begineer to Advanced level.
+Copyright (c) 2019, [WaheedTechblog](http://www.waheedtechblog.com/).
 
-# Examples
-Will try to cover all the examples related to DataStructure
+Contributor: Abdul Waheed [abdulwaheed18@gmail.com]
 
+[https://github.com/abdulwaheed18/DataStructure](https://github.com/abdulwaheed18/DataStructure)
 
-## 1. com.waheedtechblog.array
-  ### *1.1 [ReverseArray](https://github.com/abdulwaheed18/DataStructure/blob/master/src/com/waheedtechblog/array/ReverseArray.java)* - Example to show the reverse of array with and without Recusrion.
-
-## 2. com.waheedtechblog.random
-  ### *2.1 [ClockAlgorithm](https://github.com/abdulwaheed18/DataStructure/blob/master/src/com/waheedtechblog/random/ClockAngleProblem.java)* - Example to calculate angle between hour and minute hand.
+Check all projects to get in more depth details.
