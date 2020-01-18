@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ *
+ * Problem Statement:https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+ *
  * Java program to find the first non-repeating character from the given String
  * 
  * @author AbdulWaheed18@gmail.com
