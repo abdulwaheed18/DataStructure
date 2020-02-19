@@ -1,5 +1,9 @@
 package com.waheedtechblog.array;
 
+/**
+ * Merge an array of size n into another array of size m+n
+ * https://www.geeksforgeeks.org/merge-one-array-of-size-n-into-another-one-of-size-mn/
+ */
 public class MergeArrayN {
 
 
