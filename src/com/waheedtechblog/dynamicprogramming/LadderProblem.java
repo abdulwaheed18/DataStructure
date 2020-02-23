@@ -4,6 +4,9 @@ package com.waheedtechblog.dynamicprogramming;
  * 16.	You have a ladder of X steps. You can go up the ladder by taking either one or two steps each time. Write a
  * function to determine how many potential different combinations of one or two steps you could take to the top of the
  * ladder.
+ *
+ * Wtch below video for better understanding of Algorithm
+ * https://www.youtube.com/watch?v=5o-kdjv7FD0&list=PLnng8ykf4QBmBmmf7iGdlr77jarXWSzDY&index=2&t=0s
  */
 public class LadderProblem {
 
